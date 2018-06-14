@@ -1,0 +1,12 @@
+{
+  "Name": "Squirrel",
+  "Version": "5.10",
+  "Author": "Boris",
+  "Dependencies": [
+    {
+      "Name": "Giraffe",
+      "Version": "^3.1",
+      "URL": "Giraffe.zip"
+    }
+  ]
+}
