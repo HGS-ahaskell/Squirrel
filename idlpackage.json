@@ -1,11 +1,11 @@
 {
   "Name": "Squirrel",
-  "Version": "5.16",
+  "Version": "5.21",
   "Author": "Boris",
   "Dependencies": [
     {
       "Name": "Giraffe",
-      "Version": "^3.31",
+      "Version": "^3.1",
       "URL": "http://github.com/HGS-ahaskell/Giraffe"
     }
   ]
