@@ -5,7 +5,7 @@
   "Dependencies": [
     {
       "Name": "Giraffe",
-      "Version": "^3.31",
+      "Version": "^3.1",
       "URL": "http://github.com/HGS-ahaskell/Giraffe"
     }
   ]
